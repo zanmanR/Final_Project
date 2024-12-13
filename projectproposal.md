@@ -15,7 +15,6 @@ Themes:
 Action, Adventure, Exploration, Battle, Pokemon
 
 
-
 Must have:
 Pokemon
 2 Attacks
