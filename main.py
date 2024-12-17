@@ -1,1 +1,1 @@
-# skibidi toilet
+print("asigo")
