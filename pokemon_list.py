@@ -42,6 +42,10 @@ pokemon_data = {
     "Nidorina": {"HP": 70, "Moves": ["Double Kick (30 per hit)", "Bite (60)"], "Evolution": "Nidoqueen"},
     "Nidoqueen": {"HP": 90, "Moves": ["Earthquake (100)", "Sludge Bomb (90)"], "Evolution": None},
 
+    "Nidoran♂": {"HP": 46, "Moves": ["Peck (35)", "Poison Sting (15)"], "Evolution": "Nidorino"},
+    "Nidorino": {"HP": 61, "Moves": ["Horn Attack (65)", "Poison Jab (80)"], "Evolution": "Nidoking"},
+    "Nidoking": {"HP": 81, "Moves": ["Earthquake (100)", "Megahorn (120)"], "Evolution": None},
+
     "Clefairy": {"HP": 70, "Moves": ["Pound (40)", "Moonblast (95)"], "Evolution": "Clefable"},
     "Clefable": {"HP": 95, "Moves": ["Moonblast (95)", "Dazzling Gleam (80)"], "Evolution": None},
 
@@ -222,4 +226,3 @@ pokemon_data = {
     "Mew": {"HP": 100, "Moves": ["Psychic (90)", "Ancient Power (60)"], "Evolution": None}
     
     }
-  
