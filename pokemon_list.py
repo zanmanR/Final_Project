@@ -1,19 +1,19 @@
 pokemon_data = {
     "Bulbasaur": {"HP": 45, "Moves": ["Tackle (30)", "Vine Whip (45)"], "Evolution": "Ivysaur"},
     "Ivysaur": {"HP": 60, "Moves": ["Razor Leaf (55)", "Seed Bomb (80)"], "Evolution": "Venusaur"},
-    "Venusaur": {"HP": 80, "Moves": ["Solar Beam (120)", "Sludge Bomb (90)"], "Evolution": None},
+    "Venusaur": {"HP": 150, "Moves": ["Solar Beam (120)", "Sludge Bomb (90)"], "Evolution": None},
 
     "Charmander": {"HP": 39, "Moves": ["Scratch (40)", "Ember (40)"], "Evolution": "Charmeleon"},
     "Charmeleon": {"HP": 58, "Moves": ["Flamethrower (90)", "Fire Fang (65)"], "Evolution": "Charizard"},
-    "Charizard": {"HP": 78, "Moves": ["Fire Blast (110)", "Air Slash (75)"], "Evolution": None},
+    "Charizard": {"HP": 150, "Moves": ["Fire Blast (110)", "Air Slash (75)"], "Evolution": None},
 
     "Squirtle": {"HP": 44, "Moves": ["Tackle (40)", "Water Gun (40)"], "Evolution": "Wartortle"},
     "Wartortle": {"HP": 59, "Moves": ["Bubble Beam (65)", "Bite (60)"], "Evolution": "Blastoise"},
-    "Blastoise": {"HP": 79, "Moves": ["Hydro Pump (110)", "Ice Beam (90)"], "Evolution": None},
+    "Blastoise": {"HP": 150, "Moves": ["Hydro Pump (110)", "Ice Beam (90)"], "Evolution": None},
 
     "Caterpie": {"HP": 45, "Moves": ["Tackle (40)", "String Shot (0)"], "Evolution": "Metapod"},
     "Metapod": {"HP": 50, "Moves": ["Harden (0)", "Tackle (40)"], "Evolution": "Butterfree"},
-    "Butterfree": {"HP": 60, "Moves": ["Gust (40)", "Psychic (90)"], "Evolution": None},
+    "Butterfree": {"HP": 90, "Moves": ["Gust (40)", "Psychic (90)"], "Evolution": None},
 
     "Weedle": {"HP": 40, "Moves": ["Poison Sting (15)", "String Shot (0)"], "Evolution": "Kakuna"},
     "Kakuna": {"HP": 45, "Moves": ["Harden (0)", "Tackle (40)"], "Evolution": "Beedrill"},
@@ -225,4 +225,8 @@ pokemon_data = {
     "Mewtwo": {"HP": 106, "Moves": ["Psychic (90)", "Shadow Ball (80)"], "Evolution": None},
     "Mew": {"HP": 100, "Moves": ["Psychic (90)", "Ancient Power (60)"], "Evolution": None}
     
+    "Shayan": {"HP": 11, "Moves": ["stupid (40)", "little stupid (15)"], "Evolution": "Yousuf"},
+    "Yousuf": {"HP": 12, "Moves": ["really stupid (85)", "super stupid (90)"], "Evolution": "Faizan"},
+    "Faizan": {"HP": 69000, "Moves": ["sigma (12 million)", "super sigma (110 million)"], "Evolution": None},
+
     }
