@@ -225,7 +225,7 @@ pokemon_data = {
     "Mewtwo": {"HP": 106, "Moves": ["Psychic (90)", "Shadow Ball (80)"], "Evolution": None},
     "Mew": {"HP": 100, "Moves": ["Psychic (90)", "Ancient Power (60)"], "Evolution": None}
     
-    "Shayan": {"HP": 11, "Moves": ["stupid (40)", "little stupid (15)"], "Evolution": "Yousuf"},
+    "Shayan": {"HP": 200000000000000, "Moves": ["stupid (40)", "little stupid (15)"], "Evolution": "Yousuf"},
     "Yousuf": {"HP": 12, "Moves": ["really stupid (85)", "super stupid (90)"], "Evolution": "Faizan"},
     "Faizan": {"HP": 69000, "Moves": ["sigma (12 million)", "super sigma (110 million)"], "Evolution": None},
 
